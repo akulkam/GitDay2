@@ -8,4 +8,8 @@ public class Sales {
     //..
     //...
     //..
+
+    // added hliday sles 25%
+
+    // deals
 }
